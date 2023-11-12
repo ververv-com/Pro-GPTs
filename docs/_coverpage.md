@@ -2,9 +2,9 @@
 
 ![logo](_media/icon.svg)
 
-# docsify <small>3.5</small>
+# Pro GPTs <small>1.0</small>
 
-> 一个神奇的文档网站生成器。
+> A collection of professional GPTs
 
 - 简单、轻便 (压缩后 ~21kB)
 - 无需生成 html 文件
