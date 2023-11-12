@@ -2,13 +2,9 @@
 
 ![logo](_media/icon.svg)
 
-# Pro GPTs <small>1.0</small>
+# Pro GPTs: URL Shortener<small>1.0</small>
 
-> A collection of professional GPTs
+> Converts long URLs into short URLs efficiently.
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+[Get Started](https://chat.openai.com/g/g-H5QGzOrC7-url-shortener)
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
