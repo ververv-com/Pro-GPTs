@@ -82,3 +82,15 @@
 
 
 [Click to jump to the GPTs](https://chat.openai.com/g/g-v6ld42N26-pro-translator-english-and-german)
+
+
+
+# #5-d: Pro Translator: English and French(Traducteur entre l'anglais et le français)
+
+> Translator text between English and French(Traducteur entre l'anglais et le français).
+
+<img src="https://files.oaiusercontent.com/file-rWP6Pwm31xxoxxAeAhInpoXs?se=2123-10-20T06%3A38%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E7%25BF%25BB%25E8%25AF%2591-%25E6%25B3%2595%25E8%25AF%25AD.png&sig=r2MuzJWzar%2BMuXbzjoDqDhmsvgvkLhGgkQP/Wfz6hq4%3D" style="zoom:25%;" />
+
+
+
+[Click to jump to the GPTs](https://chat.openai.com/g/g-0USUys9sF-pro-translator-english-and-french)
