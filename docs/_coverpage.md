@@ -9,6 +9,7 @@
 - #2: Pro - QR Code
 - #3: Pro - Xinhua Dictionary - 新华字典
 - #4: Pro - OpenAPI Spec Generator
+- #5: Pro Translator: English and Chinese
 
 
 [Let's start](https://pro-gpts.com/#/?id=pro-gpts)

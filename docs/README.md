@@ -46,3 +46,19 @@
 
 
 [Click to jump to the GPTs](https://chat.openai.com/g/g-Klw2MaymC-pro-openapi-spec-generator)
+
+
+
+# #5: Pro Translator: English and Chinese
+
+> Translate text between English and Chinese(中英文翻译).
+
+
+
+![](https://files.oaiusercontent.com/file-5CHsAEL6ujCiwO7kFwJW9DFG?se=2123-10-20T04%3A29%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E4%25B8%258B%25E8%25BD%25BD%2520%25281%2529.png&sig=ShhlfmtaDBL4XcSBMYJrfq8vRhNR4V8u5Jm286/knXw%3D)
+
+
+
+
+
+[Click to jump to the GPTs](https://chat.openai.com/g/g-L5NmyScJi-pro-translator-english-and-chinese)
