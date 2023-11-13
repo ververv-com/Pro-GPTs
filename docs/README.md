@@ -94,3 +94,17 @@
 
 
 [Click to jump to the GPTs](https://chat.openai.com/g/g-0USUys9sF-pro-translator-english-and-french)
+
+
+
+
+
+# #6-a: Pro China News(中国新闻)
+
+> List news of China(中国新闻).
+
+<img src="https://files.oaiusercontent.com/file-Cj4NjrNsDYekxEa6Hsy3OY2p?se=2123-10-20T10%3A15%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dnews-china%2520%25281%2529.png&sig=Wckp%2BR6jxE%2BmFGvnP9%2BuAWWfw7ger%2BYA%2BBqjTZBo8Ho%3D" style="zoom:25%;" />
+
+
+
+[Click to jump to the GPTs](https://chat.openai.com/g/g-z9pbl0aR6-pro-china-news-zhong-guo-xin-wen)
