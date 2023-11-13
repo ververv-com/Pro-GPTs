@@ -108,4 +108,4 @@
 
 
 
-[Click to jump to the GPTs](https://chat.openai.com/g/g-z9pbl0aR6-pro-china-news-zhong-guo-xin-wen)
+[Click to jump to the GPTs](https://chat.openai.com/g/g-ydqT8B0jy-pro-china-news-zhong-guo-xin-wen)
