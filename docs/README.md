@@ -49,7 +49,7 @@
 
 
 
-# #5: Pro Translator: English and Chinese
+# #5-a: Pro Translator: English and Chinese
 
 > Translate text between English and Chinese(中英文翻译).
 
@@ -58,3 +58,27 @@
 
 
 [Click to jump to the GPTs](https://chat.openai.com/g/g-L5NmyScJi-pro-translator-english-and-chinese)
+
+
+
+# #5-b: Pro Translator: English and Japanese(英語と日本語の間の翻訳者)
+
+> Translator text between English and Japanese(英語と日本語の間の翻訳者).
+
+<img src="https://files.oaiusercontent.com/file-2Zy4H3uV3GwrYVHQPPvJFNmx?se=2123-10-20T06%3A25%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E7%25BF%25BB%25E8%25AF%2591-%25E6%2597%25A5%25E6%2596%2587.png&sig=43W0HXJwYRIyl11C/MyQBXZkWmGhOSMrfVxZtgqvB8U%3D" style="zoom:25%;" />
+
+
+
+[Click to jump to the GPTs](https://chat.openai.com/g/g-f58znzbv2-pro-translator-english-and-japanese-ying-yu-tori-ben-yu-nojian-nofan-yi-zhe)
+
+
+
+# #5-c: Pro Translator: English and German(Übersetzer zwischen Englisch und Deutsch)
+
+> Translator text between English and German(Übersetzer zwischen Englisch und Deutsch).
+
+<img src="https://files.oaiusercontent.com/file-yvEglAzsACbyW2gZQt2MVic3?se=2123-10-20T06%3A32%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E7%25BF%25BB%25E8%25AF%2591-%25E5%25BE%25B7%25E8%25AF%25AD.png&sig=liQUPCYjZUpYN/noYWUB4h85VIjHm3cQxerjqbTQ6u0%3D" style="zoom:25%;" />
+
+
+
+[Click to jump to the GPTs](https://chat.openai.com/g/g-v6ld42N26-pro-translator-english-and-german)
