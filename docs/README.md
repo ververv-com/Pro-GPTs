@@ -67,20 +67,6 @@
 
 
 
-## OpenAPI Spec Generator
-
-> Translate a curl command to 'OpenAPI spec for the OpenAI API' in json.
-
-<img src="https://files.oaiusercontent.com/file-wAoluJyX2ZtbucSKKOsUmpON?se=2123-10-20T03%3A33%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dhqjufblwqwto7uy0rj2z.png&sig=1uJQcLmHhKD2FD3B2IosR8RlOuTmbP69Y5Qcq2BgAuI%3D" style="zoom:25%;" />
-
-
-
-[Click to jump to the GPTs](https://chat.openai.com/g/g-Klw2MaymC-pro-openapi-spec-generator)
-
-
-
-
-
 
 # #5: Translator
 
