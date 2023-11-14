@@ -11,6 +11,6 @@
 - more...
 
 
-[Let's start](https://pro-gpts.com/#/?id=pro-gpts)
+[Let's start](#_1-url-shortener)
 
 
