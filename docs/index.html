@@ -15,8 +15,19 @@
     window.$docsify = {
       name: '',
       repo: '',
-      coverpage: true
-    }
+      coverpage: true,
+    };
+
+    (function() {
+      var userLang = navigator.language || navigator.userLanguage; 
+      var currentPath = window.location.pathname;
+
+      // 检查当前路径是否已经是对应的语言版本
+      if (userLang.startsWith('zh') && !currentPath.startsWith('/zh-cn/')) {
+        window.location.pathname = '/zh-cn/'; // 重定向到中文文档
+      }
+      // 你可以继续添加其他语言的判断和重定向
+    })();
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
