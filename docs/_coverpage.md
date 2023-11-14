@@ -7,7 +7,6 @@
 
 - #1: URL Shortener
 - #2: Pro - QR Code
-- #3: Pro - Xinhua Dictionary - 新华字典
 - more...
 
 
