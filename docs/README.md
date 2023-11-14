@@ -129,3 +129,14 @@
 
 
 [Click to jump to the GPTs](https://chat.openai.com/g/g-J1miCksdL-pro-china-news-zhong-guo-xin-wen)
+
+
+
+# #6 Pro Daily Assistant for China(便民工具)
+> An assistant for daily life. China Version: 天气预报/空气质量指数/节假日
+
+<img src="https://files.oaiusercontent.com/file-lCTRd627SuCqX560oljLpZpU?se=2123-10-21T09%3A31%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D256x256bb.png&sig=CXaxwAWpdw8MO7S4gmugBbe1W7tO7FWdyDf92pJaiyY%3D" style="zoom:25%;" />
+
+
+
+[Click to jump to the GPTs](https://chat.openai.com/g/g-vW9cc5U2y-pro-daily-assistant-for-china-bian-min-gong-ju）
