@@ -23,10 +23,21 @@
       var currentPath = window.location.pathname;
 
       // 检查当前路径是否已经是对应的语言版本
-      if (userLang.startsWith('zh') && !currentPath.startsWith('/zh-cn/')) {
-        window.location.pathname = '/zh-cn/'; // 重定向到中文文档
-      }
-      // 你可以继续添加其他语言的判断和重定向
+      // if (userLang.startsWith('zh') && !currentPath.startsWith('/zh-cn/')) {
+      //   window.location.pathname = '/zh/'; // 重定向到中文文档
+      // }     
+      // // 日语重定向
+      // else if (userLang.startsWith('ja') && !currentPath.startsWith('/ja-JP/')) {
+      //   window.location.pathname = '/ja/';
+      // }
+      // // 德语重定向
+      // else if (userLang.startsWith('de') && !currentPath.startsWith('/de-DE/')) {
+      //   window.location.pathname = '/de/';
+      // }
+      // // 法语重定向
+      // else if (userLang.startsWith('fr') && !currentPath.startsWith('/fr-FR/')) {
+      //   window.location.pathname = '/fr/';
+      // }
     })();
   </script>
   <!-- Docsify v4 -->
