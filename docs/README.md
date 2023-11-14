@@ -141,4 +141,4 @@
 
 
 
-[Click to jump to the GPTs](https://chat.openai.com/g/g-vW9cc5U2y-pro-daily-assistant-for-china-bian-min-gong-ju）
+[Click to jump to the GPTs](https://chat.openai.com/g/g-vW9cc5U2y-pro-daily-assistant-for-china-bian-min-gong-ju)
