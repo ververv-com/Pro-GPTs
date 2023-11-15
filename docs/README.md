@@ -1,6 +1,6 @@
 # Pro GPTs
 
-> a collections of awesome GPTs
+> A Collection of Awesome and Choiced GPTs
 
 
 
