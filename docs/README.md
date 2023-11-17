@@ -102,7 +102,19 @@
 
 
 
+# Trading Data
 
+## Pro A shares of China (A股)
+
+> Real time data for A shares of China (A股).
+
+
+
+<img src="https://files.oaiusercontent.com/file-kjXq9VdAoWl6qGbTgpqU9uZz?se=2123-10-24T09%3A15%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DcommunityIcon_h9shb863y8061.png&sig=32fHQ4mXLLwrzJ5k6p0pk90OoNAciwrwsOvyT9ojhrw%3D" style="zoom:25%;" />
+
+
+
+[Click to jump to the GPTs](https://chat.openai.com/g/g-VtiJ1kgs5-pro-a-shares-of-china-agu)
 
 
 
