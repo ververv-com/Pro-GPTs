@@ -102,6 +102,22 @@
 
 
 
+# Compare/比較する/Comparer/Vergleichen/比较
+
+> Compare any things.
+
+<img src="https://files.oaiusercontent.com/file-uVqWTbYNQmq6pLYBvONMPBrV?se=2123-10-28T06%3A06%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcompare.png&sig=8vqQWg0qKyKlMg%2Bygu8xcyXAHPC/pPihhJ7vXQ9ov%2Bw%3D" style="zoom:25%;" />
+
+[Click to jump to URL Shortener](https://chat.openai.com/g/g-iiku5iaCY-pro-compare-bi-jiao-suru-comparer-vergleichen-bi-jiao)
+
+
+
+
+
+
+
+
+
 # Trading Data
 
 ## Pro A shares of China (A股)
@@ -130,8 +146,8 @@
 
 
 
-
 # QR Code
+
 > Converts text to QR codes and displays efficiently.
 
 <img src="https://files.oaiusercontent.com/file-iAVjAsC3aT5cZOy1HUaO4MZM?se=2123-10-19T22%3A43%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D668142f2-db9a-4b91-a016-33717d3bc876.png&sig=eLpKcsDqPe%2B%2B4NN8DjfNUp%2BfdyKnXEO8ynaFMhkEaNg%3D" style="zoom: 25%;" />
