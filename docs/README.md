@@ -58,6 +58,20 @@
 
 
 
+## Translator: to Eng/Japan/French/Germa/中文
+
+> Translate to English/Japanese/French/German/Chinese at the same time.
+
+<img src="https://files.oaiusercontent.com/file-gmBQknh79QFcikhkIoBANcvn?se=2023-11-21T07%3A33%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E7%25BF%25BB%25E8%25AF%2591-all.png&sig=N7WIJ5IkXlagsHYc6MVt8UlPV4JeYevPhkcA2m4QTsI%3D" style="zoom:25%;" />
+
+
+
+[Click to jump to the GPTs](https://chat.openai.com/g/g-HGz8awO5v-pro-translator-to-eng-japan-french-germa-zhong-wen)
+
+
+
+
+
 
 
 # Daily Assistant
