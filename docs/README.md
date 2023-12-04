@@ -100,6 +100,21 @@
 [Click to jump to](https://chat.openai.com/g/g-okICcA90S-pro-timeline)
 
 
+# Similar Logo Generator
+
+> upload an image or a topic, generate a picture logo similar to the image or topic. you can add extra text to the image.
+
+<img src="https://files.oaiusercontent.com/file-5UdEnkOKYcWJ4AiwsJffGiHk?se=2123-11-10T08%3A15%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd6e37d85-45f8-4071-a862-2e1cda7577e3.webp&sig=C7EACpurmFip0Ij/A245Qoqg14TW/bZrmR7H1XMef0k%3D" style="zoom:25%;" />
+
+<br/>
+
+![](https://cdn.jsdelivr.net/gh/haibinyang/img@main/picgo/Snipaste_2023-12-04_16-27-05.png)
+
+[Click to jump to](https://chat.openai.com/g/g-O64uyIOow-pro-similar-logo-generator)
+
+
+
+
 # Icon Generator
 
 > Generate the iOS and Android App icon.
