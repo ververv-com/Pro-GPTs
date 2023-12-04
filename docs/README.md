@@ -98,7 +98,14 @@
 [Click to jump to](https://chat.openai.com/g/g-okICcA90S-pro-timeline)
 
 
+# Icon Generator 🆕
 
+> Generate the iOS and Android App icon.
+
+<img src="https://files.oaiusercontent.com/file-Rr3Jpz6YrU98qWIzvEmbKS8g?se=2123-11-10T05%3A06%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df00c47af-5afc-413d-847b-eee6e97708db.png&sig=W/5Jp7sdIa0zsvd4MDaqdFCvtTBDz1bGYJqb%2BEVDViQ%3D" style="zoom:25%;" />
+
+
+[Click to jump to](https://chat.openai.com/g/g-uKLWjQjRN-pro-icon-generator)
 
 
 
