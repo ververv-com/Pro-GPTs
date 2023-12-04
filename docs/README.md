@@ -81,7 +81,7 @@
 
 
 
-# Timeline 🆕
+# Timeline
 
 > List timeline of any topic(history, biographies, news events, product, famous novels)
 
@@ -100,7 +100,7 @@
 [Click to jump to](https://chat.openai.com/g/g-okICcA90S-pro-timeline)
 
 
-# Icon Generator 🆕
+# Icon Generator
 
 > Generate the iOS and Android App icon.
 
