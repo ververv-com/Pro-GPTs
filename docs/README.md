@@ -1,8 +1,8 @@
-# Pro GPTs by VerVerV
+# VerVerV Pro GPTs
 
 > A Collection of Awesome and Choiced GPTs
 
-
+![](https://cdn.jsdelivr.net/gh/haibinyang/img@main/picgo/icon.svg)
 
 # Translator
 
