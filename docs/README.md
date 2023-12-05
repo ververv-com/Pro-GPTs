@@ -1,4 +1,4 @@
-# Pro GPTs
+# Pro GPTs by VerVerV
 
 > A Collection of Awesome and Choiced GPTs
 
