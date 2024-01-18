@@ -70,7 +70,23 @@
 
 
 
-# Compare/比較する/Comparer/Vergleichen/比较
+# Compare
+
+## Alternative/代替品
+
+> List alternative of anything
+
+<img src="https://cdn.jsdelivr.net/gh/haibinyang/img@main/picgo/file-gvxZpLNLpb55DPq2Jne1D1rO" style="zoom:33%;" />
+
+
+
+[Jump to](https://chat.openai.com/g/g-3Xi7AHisW-pro-alternative-dai-ti-pin)
+
+
+
+
+
+## Compare/比較する/Comparer/Vergleichen/比较
 
 > Compare any things.
 
@@ -79,9 +95,17 @@
 [Click to jump to URL Shortener](https://chat.openai.com/g/g-iiku5iaCY-pro-compare-bi-jiao-suru-comparer-vergleichen-bi-jiao)
 
 
+## Pro Add Emoji
+
+> Add emoji to any text. make post of your twitter or text more readable and colorful.
+
+<img src="https://cdn.jsdelivr.net/gh/haibinyang/img@main/picgo/file-6Yt2Evmn2uovwmEHd5hRB2DT" style="zoom:25%;" />
+
+[Click to jump to URL Shortener](https://chat.openai.com/g/g-8M8qrXmIG-pro-add-emoji)
 
 
-# Timeline
+
+## Timeline
 
 > List timeline of any topic(history, biographies, news events, product, famous novels)
 
@@ -100,7 +124,16 @@
 [Click to jump to](https://chat.openai.com/g/g-okICcA90S-pro-timeline)
 
 
-# Similar Logo Generator
+
+
+
+# Image
+
+
+
+
+
+## Similar Logo Generator
 
 > upload an image or a topic, generate a picture logo similar to the image or topic. you can add extra text to the image.
 
@@ -115,7 +148,7 @@
 
 
 
-# Icon Generator
+## Icon Generator
 
 > Generate the iOS and Android App icon.
 
