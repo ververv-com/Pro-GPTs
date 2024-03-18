@@ -105,6 +105,18 @@
 
 
 
+## Pro Mermaid Chart
+
+> Add awesome font to your mermaid chart.
+
+<img src="https://files.oaiusercontent.com/file-mHfPrgFYzx43r6sr2P0Skv1J?se=2124-02-23T09%3A39%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D1209600%2C%20immutable&rscd=attachment%3B%20filename%3Dmermaid-icon-filled-256.png&sig=Y6NB3fafPK1frWzdtq9GBCMbaofxGk3boBjG%2BVB7jwc%3D" style="zoom:25%;" />
+
+
+
+[Click to jump to the GPTs](https://chat.openai.com/g/g-f58znzbv2-pro-translator-english-and-japanese-ying-yu-tori-ben-yu-nojian-nofan-yi-zhe)
+
+
+
 ## Timeline
 
 > List timeline of any topic(history, biographies, news events, product, famous novels)
